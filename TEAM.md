@@ -4,17 +4,17 @@
 
 ## Thông tin bài nộp
 
-- Tên nhóm:
-- Người đại diện / MSSV:
-- Tên repo: `K4-L3-DAY04-HoVaTen-MSSV-PromptEngineeringToolCalling`
+- Tên nhóm: Một Mình Tao
+- Người đại diện / MSSV: Phan Duy Thành - 2A202602930
+- Tên repo: `K4-L3-DAY04-PhanDuyThanh-2A202602930-PromptEngineeringToolCalling`
 - URL repo, nhánh nộp, commit chốt:
 - Deadline áp dụng và link thông báo đổi hạn nếu có:
 
 ## Thành viên
 
-| Họ và tên | MSSV | GitHub | Vai trò và công việc | File/commit/PR |
-|---|---|---|---|---|
-| | | | | |
+| Họ và tên      | MSSV        | GitHub     | Vai trò và công việc | File/commit/PR |
+| -------------- | ----------- | ---------- | -------------------- | -------------- |
+| Phan Duy Thành | 2A202602930 | Thanhpd123 |                      |                |
 
 ## Nhận xét chung
 
